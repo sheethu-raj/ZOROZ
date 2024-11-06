@@ -1,0 +1,16 @@
+.product-listing {
+    padding: 20px;
+    background-color: #f3f4f6;
+  }
+  
+  .product-listing h1 {
+    font-size: 2rem;
+    color: #1a73e8;
+    margin-bottom: 20px;
+  }
+  
+  .product-card-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+  }  

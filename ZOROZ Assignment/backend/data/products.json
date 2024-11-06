@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1001,
+        "name": "Product 1",
+        "price": 50,
+        "description": "Sample product",
+        "image": "https://picsum.photos/200/300"
+    },
+    {
+        "id": 1002,
+        "name": "Product 2",
+        "price": 33,
+        "description": "Sample product",
+        "image": "https://picsum.photos/200/300"
+    },
+    {
+        "id": 1003,
+        "name": "Product 3",
+        "price": 45,
+        "description": "Sample product",
+        "image": "https://picsum.photos/200/300"
+    },
+    {
+        "id": 1004,
+        "name": "Product 4",
+        "price": 65,
+        "description": "Sample product",
+        "image": "https://picsum.photos/200/300"
+    }
+]

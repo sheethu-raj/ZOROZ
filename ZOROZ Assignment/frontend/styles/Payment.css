@@ -1,0 +1,16 @@
+.payment-result {
+    text-align: center;
+    padding: 50px;
+    background-color: #ffffff;
+    border-radius: 8px;
+  }
+  
+  .payment-success {
+    font-size: 1.5rem;
+    color: #34a853;
+  }
+  
+  .payment-failure {
+    font-size: 1.5rem;
+    color: #ea4335;
+  }  
